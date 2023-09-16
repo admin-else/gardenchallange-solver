@@ -1,6 +1,6 @@
 # sdssh 2023 solver
 
-this solves the 2023 sdssh entry [challagen](https://github.com/maxwellmatthis/sdssh-challenge-2023).
+this solves the 2023 sdssh entry [challange](https://github.com/maxwellmatthis/sdssh-challenge-2023).
 
 ## How to run
 
